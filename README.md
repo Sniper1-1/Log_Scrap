@@ -4,7 +4,7 @@ Adds a log scrap to Lethal Company. ([Discord link](https://discord.com/channels
 
 
 <details>
-<summary>Keyboard details</summary>
+<summary>Log details</summary>
 
 > Weight: 16 <br>
 > Max value: 56 <br>
